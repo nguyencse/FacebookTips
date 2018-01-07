@@ -1,0 +1,2 @@
+# Remove your all friend requests
+Array.from(document.getElementsByClassName("_42ft _4jy0 _4jy3 _517h _51sy")).map(function(e){"button"===e.nodeName.toLowerCase()&&""!==e.id&&e.click()}),window.clear()
